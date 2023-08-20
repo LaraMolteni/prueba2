@@ -50,7 +50,7 @@ public class Main {
         Gato gatito = new Gato("Ema", "blanco", 3.25, 0.30, false);
         Delfin delf = new Delfin("Luis", "gris", 30, 0.75);
 
-        System.out.println("Mi gata se llama " + gatito.getNombre());
+        System.out.println("La gatita se llama " + gatito.getNombre());
         System.out.println(gatito.moverse());
 
 
